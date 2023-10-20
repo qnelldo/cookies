@@ -32,7 +32,7 @@
 * BootStrap 5.3.1
 
 ### `Deploy`
-* AWS EC2, S3, RDS, CloudFront, Route 53, ALB
+* AWS EC2, S3, RDS
 * Tomcat 9.0
 * MySQL 8.0.32
 
@@ -40,6 +40,7 @@
 * Git, Sourcetree 
 * Slack 
 * Notion
+* Figma
 
 ### `External API`
 * Naver, Kakao Social Login
